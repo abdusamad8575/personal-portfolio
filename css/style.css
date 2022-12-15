@@ -1,0 +1,13 @@
+.sameclass{
+    color: red;
+    font-size: small;
+}
+#nameId{
+    display: none;
+}
+#emailId{
+    display: none;
+}
+#msgId{
+    display: none;
+}
